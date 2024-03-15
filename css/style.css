@@ -139,9 +139,9 @@ body{
         text-align: center;
     }
     .description{
-        font-size: 10px;
-        margin-left: 10em;
-        margin-right: 10em;
+        font-size: 12px;
+        margin-left: 3em;
+        margin-right: 3em;
     }
     
     .button a{
