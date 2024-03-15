@@ -121,6 +121,8 @@ body{
 .description{
     font-size: 1rem;
     margin-bottom: 20px;
+    margin-right: 3rem;
+    margin-left: 3rem;
 }
 
 .button a{
