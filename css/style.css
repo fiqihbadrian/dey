@@ -11,6 +11,8 @@ body{
     align-items: center;
     justify-content: center;
     background-color: #F59BAD;
+    overflow-y: hidden; /* Hide vertical scrollbar */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
 }
 .greetings{
     font-size: 2rem;
